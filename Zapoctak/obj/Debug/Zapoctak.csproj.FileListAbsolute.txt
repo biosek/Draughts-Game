@@ -1,0 +1,11 @@
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\bin\Release\Zapoctak.exe.config
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\bin\Release\Zapoctak.exe
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\bin\Release\Zapoctak.pdb
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\bin\Release\MTV3D65.dll
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\obj\Debug\ResolveAssemblyReference.cache
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\obj\Debug\Zapoctak.Dama.resources
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\obj\Debug\Zapoctak.OknoNastaveni.resources
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\obj\Debug\Zapoctak.Properties.Resources.resources
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\obj\Debug\Zapoctak.csproj.GenerateResource.Cache
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\obj\Debug\Zapoctak.exe
+j:\Data\Dokumenty\Skola\MATFYZ\Programovani\PRG-I-Zapoctak\Zapoctak_Dama_Suchy_Jakub\Zapoctak\obj\Debug\Zapoctak.pdb

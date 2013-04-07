@@ -1,0 +1,56 @@
+04-07-2013 05:16:51 | --------------------------------------------
+04-07-2013 05:16:51 | Truevision3D Debug/Log File
+04-07-2013 05:16:51 | --------------------------------------------
+04-07-2013 05:16:51 | Engine Version : 6.5
+04-07-2013 05:16:51 | ENGINE INFO : DLL Compilation time Nov 11 2009 23:25:02
+04-07-2013 05:16:51 | DEVICE INIT : Initialize Depth
+04-07-2013 05:16:51 | DEVICE INIT : Initializing the device in windowed mode, with a render surface size of 861x654, format 22, depthbuffer 75
+04-07-2013 05:16:51 | VIEWPORT MANAGER : Main viewport initialization
+04-07-2013 05:16:51 | VIEWPORT MANAGER : Main viewport initialized (861x654)
+04-07-2013 05:16:51 | DEVICE INIT : Initialization successful !
+04-07-2013 05:16:51 | DEVICE INFO :  3D Card : Intel(R) HD Graphics 4000  | Card ID : 358 | Driver ID : 853375
+04-07-2013 05:16:51 | DEVICE INFO : Available texture memory : 1659 MB
+04-07-2013 05:16:51 | DEVICE INFO : Vertex Shaders 3.0 supported in hardware.
+04-07-2013 05:16:51 | DEVICE INFO : Pixel Shaders 3.0 supported in hardware.
+04-07-2013 05:16:51 | DEVICE INFO : Driver used is a DirectX9-level driver 'nvumdshim.dll'. Excellent
+04-07-2013 05:16:51 | DEVICE INFO : Card Type Geforce6xxx/7xxx/8xxx/ATIRadeonX1xxx  Level card, third generation of programmable card
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\tex03.jpg' successful 'Floor' on index 2 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\Wall.bmp' successful 'Wall' on index 3 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\Wood.bmp' successful 'Wood2' on index 4 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\0016_wood.jpg' successful 'Wood' on index 5 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\bila.bmp' successful 'bila' on index 6 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\cerna.bmp' successful 'cerna' on index 7 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\bilaf.bmp' successful 'bilaf' on index 8 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\cernaf.bmp' successful 'cernaf' on index 9 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\bilad.bmp' successful 'bilad' on index 10 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\cernad.bmp' successful 'cernad' on index 11 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\bildel.bmp' successful 'bdelet' on index 12 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\cerndel.bmp' successful 'cdelet' on index 13 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\seda.bmp' successful 'seda' on index 14 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\SedaOznaceno.bmp' successful 'sedaozn' on index 15 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\SedaOznacenoPolicko.bmp' successful 'sedaoznp' on index 16 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\SedaOznaceni.bmp' successful 'sedaoznaceni' on index 17 
+04-07-2013 05:16:51 | TEXTURE MANAGER : Loading of 'Textury\SedaSmazane.bmp' successful 'SedaSmazane' on index 18 
+04-07-2013 05:16:51 | MESH MANAGER : Loading of mesh file 'Meshe\stul.x' succeeded in 16 ms ( 72 faces, 144 vertices ) ID 1
+04-07-2013 05:16:51 | MESH MANAGER : Loading of mesh file 'Meshe\okraj.x' succeeded in 0 ms ( 40 faces, 56 vertices ) ID 2
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\tex03.jpg' successful 'Floor' on index 2 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\Wall.bmp' successful 'Wall' on index 3 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\Wood.bmp' successful 'Wood2' on index 4 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\0016_wood.jpg' successful 'Wood' on index 5 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\bila.bmp' successful 'bila' on index 6 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\cerna.bmp' successful 'cerna' on index 7 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\bilaf.bmp' successful 'bilaf' on index 8 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\cernaf.bmp' successful 'cernaf' on index 9 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\bilad.bmp' successful 'bilad' on index 10 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\cernad.bmp' successful 'cernad' on index 11 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\bildel.bmp' successful 'bdelet' on index 12 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\cerndel.bmp' successful 'cdelet' on index 13 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\seda.bmp' successful 'seda' on index 14 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\SedaOznaceno.bmp' successful 'sedaozn' on index 15 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\SedaOznacenoPolicko.bmp' successful 'sedaoznp' on index 16 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\SedaOznaceni.bmp' successful 'sedaoznaceni' on index 17 
+04-07-2013 05:16:54 | TEXTURE MANAGER : Loading of 'Textury\SedaSmazane.bmp' successful 'SedaSmazane' on index 18 
+04-07-2013 05:16:54 | MESH MANAGER : Loading of mesh file 'Meshe\stul.x' succeeded in 0 ms ( 72 faces, 144 vertices ) ID 1
+04-07-2013 05:16:54 | MESH MANAGER : Loading of mesh file 'Meshe\okraj.x' succeeded in 0 ms ( 40 faces, 56 vertices ) ID 3
+04-07-2013 05:17:57 | START UNLOAD
+04-07-2013 05:17:57 | RESOURCE MANAGER : Engine successfully unloaded
